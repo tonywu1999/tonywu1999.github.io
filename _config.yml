@@ -21,7 +21,7 @@ repository               : "tonywu1999/tonywu1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Tony Wu"
   pronouns         : "he/his"  
   bio              : "PhD student at Northeastern University studying computational methods for mass-spectrometry based proteomics"
