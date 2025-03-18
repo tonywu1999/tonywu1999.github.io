@@ -62,3 +62,12 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Awards
+======
+* US HUPO 2025 Early Trainee Poster Award
+
+Papers Reviewed
+======
+* [Placeholder] Autoencoders paper
+* [Placeholder] Normalization paper
